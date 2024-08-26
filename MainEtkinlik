@@ -1,23 +1,36 @@
-[
-2    {
-3        "etkinlik_adi": "Etkinlik 1",
-4        "etkinlik_saati": "2024-08-26T14:00:00",
-5        "etkinlik_yeri": "İstanbul",
-6        "etkinlik_gorseli": "https://example.com/image1.jpg",
-7        "etkinlik_aciklamasi": "Etkinlik 1 açıklaması"
-8    },
-9    {
-10        "etkinlik_adi": "Etkinlik 2",
-11        "etkinlik_saati": "2024-08-27T16:00:00",
-12        "etkinlik_yeri": "Ankara",
-13        "etkinlik_gorseli": "https://example.com/image2.jpg",
-14        "etkinlik_aciklamasi": "Etkinlik 2 açıklaması"
-15    },
-16    {
-17        "etkinlik_adi": "Etkinlik 3",
-18        "etkinlik_saati": "2024-08-28T18:00:00",
-19        "etkinlik_yeri": "İzmir",
-20        "etkinlik_gorseli": "https://example.com/image3.jpg",
-21        "etkinlik_aciklamasi": "Etkinlik 3 açıklaması"
-22    }
-23]
+{
+  "etkinlikler": [
+    {
+      "etkinlik_adi": "Açık Hava Konseri",
+      "etkinlik_saati": "19:00:00",
+      "etkinlik_tarihi":"29/08/2024",
+      "etkinlik_yeri": "KüçükÇiftlik Park, İstanbul",
+      "etkinlik_gorseli": "https://example.com/images/acik-hava-konseri.jpg",
+      "etkinlik_aciklamasi": "Yazın son günlerinde açık hava konseri ile keyifli bir akşam geçirin."
+    },
+    {
+      "etkinlik_adi": "Tiyatro Festivali",
+      "etkinlik_saati": "20:00:00",
+      "etkinlik_tarihi":"20/08/2024",
+      "etkinlik_yeri": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu, İstanbul",
+      "etkinlik_gorseli": "https://example.com/images/tiyatro-festivali.jpg",
+      "etkinlik_aciklamasi": "Uluslararası Tiyatro Festivali'nde ünlü yerli ve yabancı oyunlar sahnelenecek."
+    },
+    {
+      "etkinlik_adi": "Sanat Sergisi",
+      "etkinlik_saati": "10:00:00",
+      "etkinlik_tarihi":"15/08/2024",
+      "etkinlik_yeri": "İstanbul Modern Sanat Müzesi, İstanbul",
+      "etkinlik_gorseli": "https://example.com/images/sanat-sergisi.jpg",
+      "etkinlik_aciklamasi": "Modern sanatın en seçkin eserlerinin yer aldığı bu sergiyi kaçırmayın."
+    },
+    {
+      "etkinlik_adi": "Teknoloji Zirvesi",
+      "etkinlik_saati": "09:00:00",
+      "etkinlik_tarihi":"30/08/2024",
+      "etkinlik_yeri": "İstanbul Kongre Merkezi, İstanbul",
+      "etkinlik_gorseli": "https://example.com/images/teknoloji-zirvesi.jpg",
+      "etkinlik_aciklamasi": "Geleceğin teknolojilerinin tanıtılacağı bu zirvede yerinizi alın."
+    }
+  ]
+}
