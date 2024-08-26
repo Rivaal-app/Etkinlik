@@ -1,32 +1,18 @@
 {
-  "etkinlikler": [
-    {
-      "etkinlik_adi": "Açık Hava Konseri",
-      "etkinlik_saati": "2024-09-01T19:00:00",
-      "etkinlik_yeri": "KüçükÇiftlik Park, İstanbul",
-      "etkinlik_gorseli": "https://example.com/images/acik-hava-konseri.jpg",
-      "etkinlik_aciklamasi": "Yazın son günlerinde açık hava konseri ile keyifli bir akşam geçirin."
-    },
-    {
-      "etkinlik_adi": "Tiyatro Festivali",
-      "etkinlik_saati": "2024-09-10T20:00:00",
-      "etkinlik_yeri": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu, İstanbul",
-      "etkinlik_gorseli": "https://example.com/images/tiyatro-festivali.jpg",
-      "etkinlik_aciklamasi": "Uluslararası Tiyatro Festivali'nde ünlü yerli ve yabancı oyunlar sahnelenecek."
-    },
-    {
-      "etkinlik_adi": "Sanat Sergisi",
-      "etkinlik_saati": "2024-09-15T10:00:00",
-      "etkinlik_yeri": "İstanbul Modern Sanat Müzesi, İstanbul",
-      "etkinlik_gorseli": "https://example.com/images/sanat-sergisi.jpg",
-      "etkinlik_aciklamasi": "Modern sanatın en seçkin eserlerinin yer aldığı bu sergiyi kaçırmayın."
-    },
-    {
-      "etkinlik_adi": "Teknoloji Zirvesi",
-      "etkinlik_saati": "2024-09-20T09:00:00",
-      "etkinlik_yeri": "İstanbul Kongre Merkezi, İstanbul",
-      "etkinlik_gorseli": "https://example.com/images/teknoloji-zirvesi.jpg",
-      "etkinlik_aciklamasi": "Geleceğin teknolojilerinin tanıtılacağı bu zirvede yerinizi alın."
-    }
-  ]
+    "etkinlikler": [
+        {
+            "etkinlik_adi": "Konya/Ereğli Lisesi Yerli Malı Şenlikleri",
+            "etkinlik_saati": "13:00",
+            "etkinlik_yeri": "Konya/Ereğli Lisesi",
+            "etkinlik_gorseli": "https://example.com/image1.jpg",
+            "etkinlik_aciklamasi": "Yerli malı şenlikleri hakkında açıklama."
+        },
+        {
+            "etkinlik_adi": "Konya/Ereğli Playstation Turnuvası",
+            "etkinlik_saati": "15:00",
+            "etkinlik_yeri": "Konya/Ereğli X Playstation Kafesi",
+            "etkinlik_gorseli": "https://example.com/image2.jpg",
+            "etkinlik_aciklamasi": "Playstation turnuvası hakkında açıklama."
+        }
+    ]
 }
