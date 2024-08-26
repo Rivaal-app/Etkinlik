@@ -1,25 +1,23 @@
-{
-    "etkinlikler": [
-        {
-            "etkinlik_adi": "Konya/Ereğli Lisesi Yerli Malı Şenlikleri",
-            "etkinlik_saati": "2024-08-26T13:00:00",
-            "etkinlik_yeri": "Konya/Ereğli Lisesi",
-            "etkinlik_gorseli": "https://example.com/image1.jpg",
-            "etkinlik_aciklamasi": "Yerli malı şenlikleri hakkında açıklama."
-        },
-        {
-            "etkinlik_adi": "Konya/Ereğli Playstation Turnuvası",
-            "etkinlik_saati": "2024-08-26T15:00:00",
-            "etkinlik_yeri": "Konya/Ereğli X Playstation Kafesi",
-            "etkinlik_gorseli": "https://example.com/image2.jpg",
-            "etkinlik_aciklamasi": "Playstation turnuvası hakkında açıklama."
-        },
-        {
-            "etkinlik_adi": "Konya/Ereğli Bayrak Flama Gösterisi",
-            "etkinlik_saati": "2024-08-26T17:00:00",
-            "etkinlik_yeri": "Konya/Ereğli Şehir Meydanı",
-            "etkinlik_gorseli": "https://example.com/image3.jpg",
-            "etkinlik_aciklamasi": "Bayrak flama gösterisi hakkında açıklama."
-        }
-    ]
-}
+[
+    {
+        "etkinlik_adi": "Konya/Ereğli Lisesi Yerli Malı Şenlikleri",
+        "etkinlik_saati": "2024-08-26T13:00:00",
+        "etkinlik_yeri": "Konya/Ereğli Lisesi",
+        "etkinlik_gorseli": "https://example.com/image1.jpg",
+        "etkinlik_aciklamasi": "Yerli malı şenlikleri hakkında açıklama."
+    },
+    {
+        "etkinlik_adi": "Konya/Ereğli Playstation Turnuvası",
+        "etkinlik_saati": "2024-08-26T15:00:00",
+        "etkinlik_yeri": "Konya/Ereğli X Playstation Kafesi",
+        "etkinlik_gorseli": "https://example.com/image2.jpg",
+        "etkinlik_aciklamasi": "Playstation turnuvası hakkında açıklama."
+    },
+    {
+        "etkinlik_adi": "Konya/Ereğli Bayrak Flama Gösterisi",
+        "etkinlik_saati": "2024-08-26T17:00:00",
+        "etkinlik_yeri": "Konya/Ereğli Şehir Meydanı",
+        "etkinlik_gorseli": "https://example.com/image3.jpg",
+        "etkinlik_aciklamasi": "Bayrak flama gösterisi hakkında açıklama."
+    }
+]
